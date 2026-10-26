@@ -1,6 +1,6 @@
-Unemployment final boss
+# Unemployment final boss
 
-<a href="https://discord.com/users/546354115765207080"><img src="https://lanyard.cnrad.dev/api/546354115765207080?theme=dark&borderRadius=20px&bg=36393f" alt="Discord Presence" /></a>
+<a href="https://discord.com/users/546354115765207080"><img src="https://lanyard.cnrad.dev/api/546354115765207080?theme=dark&borderRadius=20px&bg=d1d7e0" alt="Discord Presence" /></a>
 
 ----
 
