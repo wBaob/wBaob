@@ -4,5 +4,5 @@
 
 ----
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wBaob&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=wBaob&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wBaob&show_icons=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=wBaob&show_icons=true&theme=dark_github)
 <a href="https://github.com/wBaob"><img src="http://github-readme-streak-stats.herokuapp.com/?user=wBaob&theme=github-dark-blue&border_radius=20" alt="GitHub Streak" /></a>
